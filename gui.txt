@@ -1,0 +1,16 @@
+apt upgrade
+apt update
+
+apt-get install xfce4 chromium lightdm
+
+#after installation
+
+adduser username
+
+
+#enter the password
+
+#restart your system after the installation
+# and if you don't want to restart your system, use 
+
+systemctl start lighdm
